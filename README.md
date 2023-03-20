@@ -15,3 +15,10 @@ Class="ShopTop" - For Him for Her text on top of jackets
 Class="Jackets" - Jackets For Him and For Her page
 class="side-menu"- about and contact linkes on side
 class="Picture-side-menu" - about and contact pictures on side
+"index-Header - Picture and logo etc index page
+class="Header2" - centering headlines buttons etc for him, for her, 
+current - The page you are on
+search - header serarch button
+About - section with text in about 
+Contact - section with form in contact
+class=navbar-top -shoppingbag log in etc
