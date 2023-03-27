@@ -16,9 +16,19 @@ Class="Jackets" - Jackets For Him and For Her page
 class="side-menu"- about and contact linkes on side
 class="Picture-side-menu" - about and contact pictures on side
 "index-Header - Picture and logo etc index page
-class="Header2" - centering headlines buttons etc for him, for her, 
+.Index__CTA-Button - centering headlines buttons etc for him, for her, on IDEX page 
 current - The page you are on
 search - header serarch button
 About - section with text in about 
 Contact - section with form in contact
 class=navbar-top -shoppingbag log in etc
+Jackets-Shop - Jacket group (him and Her)
+Jackets-Him 
+Jackets-Her
+percent- Index % sale
+Footer_Info- Free delivery etc
+Footer_Link- About us, contact, my order, my account
+footer_payment- Cards bottom line
+
+
+.Logo {max-width: 300px; max-height: 200px;padding-left: 50%;padding-top: 2%;}
