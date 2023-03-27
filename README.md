@@ -31,4 +31,10 @@ Footer_Link- About us, contact, my order, my account
 footer_payment- Cards bottom line
 
 
-.Logo {max-width: 300px; max-height: 200px;padding-left: 50%;padding-top: 2%;}
+   .percent{  position: absolute; top:7%; left: 25%; background-color: yellow;
+      }
+.Price {display: flex; align-items: flex-start;font-weight:900; background-color: red;}
+.jackets-Shop>div>h2,.Index_Jackets-shop>div>h3 {
+    position: absolute; top:80%; left: 50%;transform: translate(-50%, -50%); font-weight: 500; background-color: blueviolet;}
+.jackets-Shop>div>h3, .Index_Jackets-shop>div>h4 {position: absolute; top:85%; left: 50%;transform: translate(-50%, -50%); 
+    font-weight: 200;background-color: orange;}
