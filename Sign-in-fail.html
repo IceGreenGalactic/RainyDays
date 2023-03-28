@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>RainyDays|Sendt</title>
+    <title>RainyDays|Sign-in-Failed</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -32,20 +32,23 @@
       </section> 
     </nav>
  
- 
    </header> 
-  
-    <main Class="Sendt">
-         
-      <section class="back-arrow2">
+ 
+
+   
+    <main>   <section class="back-arrow2">
         <a href="index.html" ><i class="fa-solid fa-arrow-left-long"></i> Go Home</a>
      </section>
-     
-      <section>
-       <h1>Your request was received and assigned the following number: </h1>
-       <h2> 4937710 </h2>
-       <h1>Please use this number anytime you wish to add some information to this request. 
-        We answer every request as quickly as we can, usually within 24–48 hours.</h1>
+      <section class="Sign-in-fail">
+        <i class="fa-solid fa-user"></i></a></li>
+        <h1>SIGN IN</h1>
+        <h2>The username or password you enterd is incorrect</h2>
+        <form action="submit.php" method="post"> 
+            <input type="text" name="username" placeholder="Username/Email"/>
+            <br>
+            <input type="password" name="Password" placeholder="Password"/>
+            </form>
+            <input type="submit" value="Sign in" class="CTA-Button"/>
       </section>
     </main>
     <footer class="Footer">
