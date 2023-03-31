@@ -1,6 +1,7 @@
 # RainyDays
-LessonTask, RainyDays jacket shop
+Course Assignment, RainyDays jacket shop
 
+This is a website based on the prototype made in Design1 (Rainy Days)
 
 
 Classes:
@@ -29,4 +30,4 @@ percent- Index % sale
 Footer_Info- Free delivery etc
 Footer_Link- About us, contact, my order, my account
 footer_payment- Cards bottom line
-Added text to test 
+Info_info - name and image on info page
